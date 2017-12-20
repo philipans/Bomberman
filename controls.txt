@@ -1,0 +1,33 @@
+----- Steuerung -----
+
+Navigieren im Menü:
+Bewegen: Hoch, Runter
+Auswählen: Enter
+Zurück: Esc
+Optional ist das Menü per Maus bedienbar.
+
+
+Spieler 1:
+Bewegen: Hoch, Runter, Links, Rechts
+Bombe legen: M
+
+Spieler 2:
+Bewegen: W, A, S, D
+Bombe legen: Q
+
+Spieler 3:
+Bewegen: 4, E, R, T
+Bombe legen: 3
+
+Spieler 4:
+Bewegen: 9, I, O, P
+Bombe legen: 8
+
+
+----- Items -----
+Extra Bombe:     Das Icon mit der Bombe und dem Plus Zeichen erlaubt es dem Spieler jeweils eine extra Bombe auf dem Spielfeld zu platzieren. (Maximal 8)
+Extra Leben:     Das Icon mit dem Herz verleiht dem Spieler ein zusätzliches Leben zu seinen drei Standard Leben. (Maximal 1 Extraleben)
+Bomben Größe:    Das Icon mit den zwei Pfeilen vergrößert die Reichweite jeder Bombe um ein Feld. (Maximal 10)
+Geschwindigkeit: Das Icon mit dem Tacho erhöht die Geschwindigkeit des Spielers. (Maximal 4)
+Bomben Schubsen: Das Icon mit dem Fuß und der Bombe erlaubt es dem Spieler auf Stufe 1 die Bombe Feld für feld zu schieben, auf Stufe 2, 
+		 die Bomben beim Anstoßen über das Feld zu schießen und auf Stufe 3 noch zusätzlich über die Bomben herrüberzulaufen. (Maximal Stufe 3)
